@@ -1,0 +1,14 @@
+C:\Users\pacip\Desktop\New folder\strings\bin\Debug\net8.0\strings.exe
+C:\Users\pacip\Desktop\New folder\strings\bin\Debug\net8.0\strings.deps.json
+C:\Users\pacip\Desktop\New folder\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+C:\Users\pacip\Desktop\New folder\strings\bin\Debug\net8.0\strings.dll
+C:\Users\pacip\Desktop\New folder\strings\bin\Debug\net8.0\strings.pdb
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.dll
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\refint\strings.dll
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.pdb
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+C:\Users\pacip\Desktop\New folder\strings\obj\Debug\net8.0\ref\strings.dll
